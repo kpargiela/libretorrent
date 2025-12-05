@@ -71,3 +71,4 @@ captures/
 
 # Android NDK build stuff
 .externalNativeBuild
+.env
